@@ -1,5 +1,6 @@
 from distutils.core import setup
 
+
 def readme():
     try:
         with open('README.rst') as f:
